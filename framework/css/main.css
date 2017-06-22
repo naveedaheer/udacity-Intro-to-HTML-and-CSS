@@ -9,6 +9,14 @@
     box-sizing: border-box;
 }
 
+*{
+    
+    font-family: 'Bubbler One', sans-serif;
+
+    font-family: 'Patrick Hand SC', cursive;
+
+}
+
 .row{
     width: 100%;
     display: flex;
@@ -60,6 +68,7 @@
 h1{
     color: orangered;
 }
+
 }
 
 @media only screen and (max-width:400px){
